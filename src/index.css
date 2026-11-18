@@ -1,0 +1,37 @@
+/* DARK MODE - LIGHT GREY */
+
+[data-theme="dark"] {
+
+    color-scheme: dark;
+
+    --body-bg: #E5E7EB;
+
+    --card-bg: #F3F4F6;
+
+    --navbar-bg: #D1D5DB;
+
+    --text-color: #252B33;
+
+    --secondary-text: #626B76;
+
+    --primary-color: #4B5563;
+
+    --light-green: #D1D5DB;
+
+    --border-color: #C4C9D0;
+
+    --input-bg: #FFFFFF;
+
+    /* Bootstrap variables */
+
+    --bs-body-bg: #E5E7EB;
+
+    --bs-body-color: #252B33;
+
+    --bs-card-bg: #F3F4F6;
+
+    --bs-card-color: #252B33;
+
+    --bs-border-color: #C4C9D0;
+
+}
